@@ -186,4 +186,4 @@ Container used: docker://10jll/spatial:version2
 2.	Sankey_cosMxPops.ipynb
 Samkey plot script for comparison of annotations across CosMx objects (original, and post-SCANVI).
 Run using google colab.
-![image](https://github.com/user-attachments/assets/19b7bb32-cc6c-42b7-8824-6a8ab896af04)
+
